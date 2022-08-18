@@ -256,4 +256,4 @@ and [contributors](https://github.com/kriasoft/react-firebase-starter/graphs/con
 [vcjs]: https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
 [watchman]: https://github.com/facebook/watchman
 [postgres]: https://www.postgresql.org/
-[bc]: https://www.scootersoftware.com/
+[bc]: https://www.scootersoftware.com
